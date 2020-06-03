@@ -30,10 +30,10 @@ importPackage()
 
 authenticateApi <- function(){
   #persiapan untuk mendapat akses ke twitter
-  consumer_key <- "1fLve0hsQOqDcjOvUn2ua0KzY"
-  consumer_secret <- "0MfrHQ1RhlBoy3MOEZ6AFxr6vKEEzh4u4QEC2izdDnHRSN1MUj"
-  access_token <- "814717219850436608-MMRT2HBLPOnCrZqXMGkGx8Grvtn5L2x"
-  access_secret <- "FsWN6j2P3zpEffHKz9BX2aAL2vOoC93o54oLZ2okmeAry"
+  consumer_key <- "isi consumer key milik mu"
+  consumer_secret <- "isi consumer key milik mu"
+  access_token <- "isi consumer key milik mu"
+  access_secret <- "isi consumer key milik mu"
   
   #get data from twitter
   setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
