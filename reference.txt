@@ -1,0 +1,14 @@
+
+https://github.com/ardjunwibowo/Sentiment-Analysis
+
+// bagus ini, menggunakan naive bayes
+https://hakim-azizul.com/bermain-twitter-dengan-r-part-6-sentiment-analysis-dengan-naive-bayes-go-jek-vs-grab-vs-uber/
+
+// word cloud
+http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
+
+// elegan web for sentiment analyze
+http://rstudio-pubs-static.s3.amazonaws.com/283869_04d1ed5678d84af68978cf34661d63cf.html
+
+// primary source code
+https://medium.com/@17611063/analisis-sentimen-twitter-menggunakan-rstudio-162c8195603d
